@@ -10,7 +10,7 @@ namespace MvcSample.Controllers
     public class AccountController : Controller
     {
         //Murugan - mouli - thivagar 
-        // GET: /Account/-123
+        // GET: /Account/-123-456
 
         public ActionResult Index()
         {
